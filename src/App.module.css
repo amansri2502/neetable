@@ -24,8 +24,8 @@
     margin: 10px;
     object-fit: fill;
     transform: scale(1.05);
-    background-color: #000;
-    opacity: 0.87;
+    background-color: rgba(0, 0, 0, 0.747);
+    opacity: 0.85;
     -webkit-transform: scale(1.03);
     -moz-transform: scale(1.03);
     -ms-transform: scale(1.03);
@@ -75,7 +75,7 @@
 }
 .buttonBorder{
     display: flex;
-    min-width:50vw;
+    width: 90vw;
     top:50px;
     justify-content: space-between;
     flex-wrap: wrap;  
